@@ -18,3 +18,7 @@ A aplicação utiliza um banco de dados PostgreSQL para armazenar informações 
 
 ## Observações
 O Aplicativo ainda não edita todas as informações contidas dentro do banco de dados, por ser apenas um protótipo, planejamos, em atualizações futuras, adicionar mais funcionalidades, um leyout mais intrusivo e bonito, além de manipular todas as informações sobre o animal e as equipes, criação de usuários e equipes com login e senha, etc
+
+### Aplicação feita por:
+- Caio Wingler Gaburo
+- Pedro Henrique Blunck
